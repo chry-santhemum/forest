@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="forest.xsl"?>
+<tree expanded="true" show-heading="true" show-metadata="true" toc="false" root="true"><frontmatter> <anchor>123</anchor>   <addr>aw-0001</addr>  <route>index.xml</route> <date><year>2023</year> <month>10</month> <day>2</day></date> <authors><author><link href="atticusw.xml" type="local">atticusw</link></author> </authors> <title>The root of my forest</title> </frontmatter> <mainmatter><p>This is an example tree in my forest.</p></mainmatter> <backmatter><contributions/> <context/> <related/> <backlinks/> <references/></backmatter></tree>
