@@ -1,0 +1,6 @@
+\date{2023-10-03}
+\title{Zariski lemma}
+\taxon{Lemma}
+\meta{subject}{commutative-algebra}
+
+\p{Suppose #{L/K} is a field extension such that #{L} is a finitely-generated #{K}-algebra, then the extension is finite, i.e. #{L} is finitely generated as a #{K}-vector space.}

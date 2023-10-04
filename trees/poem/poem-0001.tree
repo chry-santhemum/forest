@@ -2,7 +2,7 @@
 \date{2023-10-02}
 \author{atticusw}
 
-\p{The land rover turned a corner. \br}
+\p{#{\quad\quad}The land rover turned a corner. \br}
 
 \p{In daylight \br
 there was only \br
@@ -12,30 +12,30 @@ Sculpted \br
 out of soil and muddy river \br
 and the wind a chisel. \br}
 
-\p{In its wake, the wheels swept up a fine mist \br
-like a bullet that yearns to outrun \br
-its trail of bodies. \br}
+\p{#{\quad\quad}In its wake, the wheels swept up a fine mist \br
+#{\quad\quad}like a bullet that yearns to outrun \br
+#{\quad\quad}its trail of bodies. \br}
 
 \p{He shut his eyes from the red raging of the earth. \br
 The plateau remembers its age \br
 by the withered bones it witnessed— all laid out, \br
-end to end, its unbearable heaviness fell on his feet \br
+end to end, its unbearable heaviness tied to his feet \br
 like shackles. \br}
 
-\p{We came to a stop beside the lot. \br
-Across the half wall, there it was, lined up \br
-like a lunar eclipse. Like a chorus. \br
-Like three blocks of blackstone with the same lousy inscription. \br
-\em{Grandfather, father, son.} \br
-Who will be the next interred? \br}
+\p{#{\quad\quad}We came to a stop beside the lot. \br
+#{\quad\quad}Across the half wall, there it was, lined up \br
+#{\quad\quad}like a lunar eclipse. Like a chorus. \br
+#{\quad\quad}Like three blocks of blackstone with the same lousy inscription. \br
+#{\quad\quad}\em{Grandfather. Father. Son.} \br
+#{\quad\quad}Who will be the next interred? \br}
 
 \p{Someone lit a match. \br
 Paper bills— SUVs— luxury mansions \br
 went up in flames. Delivered to the afterlife \br
 where no more years had difficulties. \br}
 
-\p{Downwind, we coughed with red eyes \br
-& watched the sky char. \br}
+\p{#{\quad\quad}Downwind, we coughed with red eyes \br
+#{\quad\quad}& watched the sky char. \br}
 
 \p{Apart from my dreams, I've almost forgotten \br
 what he looked like— when he breathed his last, his hand \br

@@ -1,0 +1,8 @@
+\date{2023-10-03}
+\title{Noether normalization lemma}
+\taxon{Lemma}
+\meta{subject}{commutative-algebra}
+
+\import{basic-macros}
+
+\p{Suppose #{k} is a field, #{A} is a finitely generated #{k}-algebra. Then there exist algebraically independent elements #{y_1,\dots,y_d\in A} such that #{k[y_1,\dots,y_d] \into A} is finite.}
