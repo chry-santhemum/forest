@@ -189,7 +189,7 @@
 \def\cbrt[arg1]{#{\sqrt[3]{\arg1}}}
 \def\bul{#{\bullet}}
 \def\xto[arg1]{#{\xrightarrow{\arg1}}}
-\def\xto[arg1]{#{\xleftarrow{\arg1}}}
+\def\xfrom[arg1]{#{\xleftarrow{\arg1}}}
 \def\pard[arg1][arg2]{#{\frac{\partial\arg1}{\partial\arg2}}}
 \def\symmdif{#{\thinspace\triangle\thinspace}}
 \def\restr[arg1]{#{\vert_{\arg1}}}
@@ -249,7 +249,7 @@
 \def\cov{#{\operatorname{cov}}}
 \def\covol{#{\operatorname{covol}}}
 \def\cts{#{\operatorname{cts}}}
-\def\d{#{\operatorname{d}}}
+\def\d{#{\mathrm{d}}}
 \def\depth{#{\operatorname{depth}}}
 \def\desc{#{\operatorname{desc}}}
 \def\Der{#{\operatorname{Der}}}

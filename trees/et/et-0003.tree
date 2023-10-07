@@ -1,0 +1,10 @@
+\date{2023-10-07}
+\title{Module of differentials}
+\taxon{Subsection}
+\meta{subject}{algebraic-geometry}
+
+\import{et-0001}
+
+\p{Given a ring homomorphism #{A\to B} (equivalently a map of affine schemes #{\Spec B\to \Spec A}), we may naturally define a #{B}-module #{\Omega_{B/A}}, which should be thought of as the set of differential forms on #{\Spec B} relative to #{\Spec A}.}
+
+\transclude{et-0002}
